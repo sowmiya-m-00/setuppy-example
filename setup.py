@@ -36,7 +36,7 @@ setup(
     description="Example App",
     test_suite='tests',
 
-    # Dependent packages (distributions)
+    # DependentS packages (distributions)
     install_requires=[
         'Flask==0.10.1',
         'Flask-Testing==0.4.2',
